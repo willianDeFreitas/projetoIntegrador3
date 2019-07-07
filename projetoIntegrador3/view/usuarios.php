@@ -17,7 +17,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
-                    <h1>Gestão de usuários</h1>
+                    <h1 hidden>Gestão de usuários</h1>
                 </div>
             </div>
         </div>
