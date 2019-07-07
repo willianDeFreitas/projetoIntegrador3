@@ -11,6 +11,7 @@
 ?>
 <div class="table-responsive-xl">
     <table class="table table-hover table-striped table-bordered" style="text-align: center; white-space: nowrap;">
+        <caption>Gestão de usuários</caption>
         <thead class="thead-dark">
             <tr>
 		        <th>Nome</th>
